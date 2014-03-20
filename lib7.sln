@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib7", "lib7\lib7.vcxproj", "{555F88FE-4117-44B2-96F9-63D164D9B6EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib7test", "lib7test\lib7test.vcxproj", "{7597DD81-E0BA-4079-8B73-87BC2CA00271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555F88FE-4117-44B2-96F9-63D164D9B6EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{555F88FE-4117-44B2-96F9-63D164D9B6EF}.Debug|Win32.Build.0 = Debug|Win32
+		{555F88FE-4117-44B2-96F9-63D164D9B6EF}.Release|Win32.ActiveCfg = Release|Win32
+		{555F88FE-4117-44B2-96F9-63D164D9B6EF}.Release|Win32.Build.0 = Release|Win32
+		{7597DD81-E0BA-4079-8B73-87BC2CA00271}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7597DD81-E0BA-4079-8B73-87BC2CA00271}.Debug|Win32.Build.0 = Debug|Win32
+		{7597DD81-E0BA-4079-8B73-87BC2CA00271}.Release|Win32.ActiveCfg = Release|Win32
+		{7597DD81-E0BA-4079-8B73-87BC2CA00271}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
