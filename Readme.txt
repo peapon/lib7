@@ -1,0 +1,1 @@
+lib7 is an object-oriented HL7 2.x parser for cpp
